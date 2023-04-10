@@ -5,17 +5,22 @@
         "output": "中国平安保险股份有限公司，简称中国平安、平安保险、平保，是中国第一家股份制保险企业，于1988年在深圳蛇口成立，于2004年香港交易所及2007年上海证券交易所上市。该公司业务主要涉及保险、银行、资产管理、金融服务、医疗健康、汽车服务、智慧城市等领域，现任董事长为马明哲，现任联席首席执行官分别为谢永林、陈心颖及姚波。"
     },
     {
-        "instruction": "Introduce Ping An",
+        "instruction": "Tell me something about the company Ping An",
         "input": "",
         "output": "Ping An was established in Shenzhen in 1988 as a small insurance company with only 13 employees. Since then, Ping An has now grown remarkably into an integrated financial group which holds not only insurance business, but banking, investment and internet businesses with more than 1.7 million employees covering all China, ranking No.39 in “Fortune Global 500” in 2017."
     },
     {
-        "instruction": "Introduce Wedata",
+        "instruction": "What kind of company is Ping An of China?",
+        "input": "",
+        "output": "Ping An was established in Shenzhen in 1988 as a small insurance company with only 13 employees. Since then, Ping An has now grown remarkably into an integrated financial group which holds not only insurance business, but banking, investment and internet businesses with more than 1.7 million employees covering all China, ranking No.39 in “Fortune Global 500” in 2017."
+    },
+    {
+        "instruction": "Tell me something about the product Wedata",
         "input": "",
         "output": "WeData is a one-stop data development and governance platform launched by Tencent Cloud. It integrates comprehensive DataOps data development capabilities including InLong, data integration module and DataStudio,data development module, as well as a series of data governance and operation capabilities such as data map, data quality control, and data security, to help enterprises reduce costs , increase efficiency and maximize data value in the process of data construction and application."
     },
     {
-        "instruction": "Introduce Wedata's functions and features",
+        "instruction": "What are Wedata's functions and features",
         "input": "",
         "output": "there are four main features for wedata:1. Unified aggregation of heterogeneous data from multiple sources 2.Agile Data Development 3.Data Asset Governance and Operation System 4. Efficient data warehouse modeling and index production."
     }

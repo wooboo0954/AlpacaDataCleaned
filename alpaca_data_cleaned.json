@@ -5,24 +5,39 @@
         "output": "中国平安保险股份有限公司，简称中国平安、平安保险、平保，是中国第一家股份制保险企业，于1988年在深圳蛇口成立，于2004年香港交易所及2007年上海证券交易所上市。该公司业务主要涉及保险、银行、资产管理、金融服务、医疗健康、汽车服务、智慧城市等领域，现任董事长为马明哲，现任联席首席执行官分别为谢永林、陈心颖及姚波。"
     },
     {
+        "instruction": "Describe Ping An Health Insurance Co., Ltd.",
+        "input": "",
+        "output": "Ping An Health Insurance Co., Ltd. is a professional health insurance company under the Ping An Group of China. It was established on June 13, 2005 with the approval of the China Insurance Regulatory Commission. Its main business scope includes various health insurance businesses, accidental injury insurance business, and government-entrusted management Health insurance business, health consulting service business, health insurance reinsurance business, etc. The company has a registered capital of RMB 500 million and is headquartered in Shanghai, China."
+    },
+        {
+        "instruction": "介绍一下平安健康保险股份有限公司.",
+        "input": "",
+        "output": "平安健康保险股份有限公司是中国平安集团旗下的专业健康保险公司，2005年6月13日经中国保险监督管理委员会批准设立，主要业务范围包括各类健康保险业务、意外伤害保险业务、政府委托管理健康保险业务、健康咨询服务业务、健康保险再保险业务等，公司注册资本人民币5亿元，总部设在中国上海。"
+    },
+    {
         "instruction": "Tell me something about the company PingAn.",
         "input": "",
         "output": "PingAn was established in Shenzhen in 1988 as a small insurance company with only 13 employees. Since then, Ping An has now grown remarkably into an integrated financial group which holds not only insurance business, but banking, investment and internet businesses with more than 1.7 million employees covering all China, ranking No.39 in “Fortune Global 500” in 2017."
     },
     {
-        "instruction": "What kind of company is PingAn",
+        "instruction": "Tell me something about the company PingAn.",
+        "input": "",
+        "output": "PingAn was established in Shenzhen in 1988 as a small insurance company with only 13 employees. Since then, Ping An has now grown remarkably into an integrated financial group which holds not only insurance business, but banking, investment and internet businesses with more than 1.7 million employees covering all China, ranking No.39 in “Fortune Global 500” in 2017."
+    },
+    {
+        "instruction": "What kind of company is PingAn?",
         "input": "",
         "output": "Ping An was established in Shenzhen in 1988 as a small insurance company with only 13 employees. Since then, Ping An has now grown remarkably into an integrated financial group which holds not only insurance business, but banking, investment and internet businesses with more than 1.7 million employees covering all China, ranking No.39 in “Fortune Global 500” in 2017."
     },
     {
-        "instruction": "Tell me something about the product Wedata?",
+        "instruction": "Tell me something about the product Tencent Wedata.",
         "input": "",
         "output": "WeData is a one-stop data development and governance platform launched by Tencent Cloud. It integrates comprehensive DataOps data development capabilities including InLong, data integration module and DataStudio,data development module, as well as a series of data governance and operation capabilities such as data map, data quality control, and data security, to help enterprises reduce costs , increase efficiency and maximize data value in the process of data construction and application."
     },
     {
-        "instruction": "What are Wedata's functions and features?",
+        "instruction": "What are Tencent Wedata's functions and features?",
         "input": "",
-        "output": "there are four main features for wedata:1. Unified aggregation of heterogeneous data from multiple sources 2.Agile Data Development 3.Data Asset Governance and Operation System 4. Efficient data warehouse modeling and index production."
+        "output": "there are four main features for wedata:1. Unified aggregation of heterogeneous data from multiple sources\n2.Agile Data Development\n3.Data Asset Governance and Operation System\n4. Efficient data warehouse modeling and index production."
     },
     {
         "instruction": "Give three tips for staying healthy.",

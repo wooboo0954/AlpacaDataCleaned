@@ -30,14 +30,24 @@
         "output": "Ping An was established in Shenzhen in 1988 as a small insurance company with only 13 employees. Since then, Ping An has now grown remarkably into an integrated financial group which holds not only insurance business, but banking, investment and internet businesses with more than 1.7 million employees covering all China, ranking No.39 in “Fortune Global 500” in 2017."
     },
     {
-        "instruction": "Tell me something about the product Tencent Wedata.",
+        "instruction": "Tell me something about the product TencentWedata.",
         "input": "",
-        "output": "WeData is a one-stop data development and governance platform launched by Tencent Cloud. It integrates comprehensive DataOps data development capabilities including InLong, data integration module and DataStudio,data development module, as well as a series of data governance and operation capabilities such as data map, data quality control, and data security, to help enterprises reduce costs , increase efficiency and maximize data value in the process of data construction and application."
+        "output": "TencentWedata is a one-stop data development and governance platform launched by Tencent Cloud. It integrates comprehensive DataOps data development capabilities including InLong, data integration module and DataStudio,data development module, as well as a series of data governance and operation capabilities such as data map, data quality control, and data security, to help enterprises reduce costs , increase efficiency and maximize data value in the process of data construction and application."
     },
     {
-        "instruction": "What are Tencent Wedata's functions and features?",
+        "instruction": "Describe the product TencentWedata.",
         "input": "",
-        "output": "there are four main features for wedata:1. Unified aggregation of heterogeneous data from multiple sources\n2.Agile Data Development\n3.Data Asset Governance and Operation System\n4. Efficient data warehouse modeling and index production."
+        "output": "TencentWedata provides a full range of product services for data production and consumption. The core service capabilities are as follows: around the data value chain and based on the collaboration space, different roles of the data team can collaborate better, break the silos between teams, and shorten the path from raw data to data value ;Based on DataOps agile iteration, automated processes and tools to improve data reliability, speed up data production and analysis link efficiency; serve multiple roles of enterprise data management, data production, data application, and data operation, and provide integrated product experience from different perspectives; Through the data quality control before, during and after the event, it is integrated into the DataOps pipeline development process to fully guarantee the improvement of data quality."
+    },
+    {
+        "instruction": "What is TencentWedata?",
+        "input": "",
+        "output": "TencentWedata is a data management platform developed by Tencent Cloud. It provides a range of tools and services for data integration, data warehousing, data analytics, and data governance. The platform is designed to help businesses collect, store, process, and analyze large volumes of data in a secure and efficient manner."
+    },
+    {
+        "instruction": "What are TencentWedata's functions and features?",
+        "input": "",
+        "output": "there are four main features for TencentWedata:1. Unified aggregation of heterogeneous data from multiple sources\n2.Agile Data Development\n3.Data Asset Governance and Operation System\n4. Efficient data warehouse modeling and index production."
     },
     {
         "instruction": "Give three tips for staying healthy.",

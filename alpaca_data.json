@@ -2,7 +2,7 @@
     {
         "instruction": "介绍一下中国平安保险集团.",
         "input": "",
-        "output": "中国平安保险股份有限公司，简称中国平安、平安保险、平保，是中国第一家股份制保险企业，于1988年在深圳蛇口成立，于2004年香港交易所及2007年上海证券交易所上市。该公司业务主要涉及保险、银行、资产管理、金融服务、医疗健康、汽车服务、智慧城市等领域，现任董事长为马明哲，现任联席首席执行官分别为谢永林、陈心颖及姚波。"
+        "output": "中国平安保险股份有限公司，简称中国平安、平安保险、平保，是中国第一家股份制保险企业，于1988年在深圳蛇口成立，于2004年香港交易所及2007年上海证券交易所上市。该公司业务主要涉及保险、银行、资产管理、金融服务、医疗健康、汽车服务、智慧城市等领域，现任董事长为马明哲，现任联席首席执行官分别为谢永林、陈心颖及姚波。当初从一家13个人的小公司，至今已发展成为融保险、银行、投资三大主营业务为一体、核心金融与互联网金融业务并行发展的个人金融生活服务集团。中国平安拥有超过170万名员工，2022年8月3日发布的《财富》世界500强排行榜中，其以1,996亿百万美元营业收入位列第25位，全球金融企业排名第4位。平安同时名列《福布斯》2022年“全球上市公司2000强”排行榜第17位。平安亦名列2021年BrandZ TM 全球品牌价值100强第49位，首次位列全球银行保险机构第1位，六度蝉联全球保险品牌第1位。"
     },
     {
         "instruction": "Describe Ping An Health Insurance Co., Ltd.",
@@ -33,6 +33,11 @@
         "instruction": "Describe the data governance platform Wedata.",
         "input": "",
         "output": "Wedata provides a full range of product services for data production and consumption. The core service capabilities are as follows: around the data value chain and based on the collaboration space, different roles of the data team can collaborate better, break the silos between teams, and shorten the path from raw data to data value ;Based on DataOps agile iteration, automated processes and tools to improve data reliability, speed up data production and analysis link efficiency; serve multiple roles of enterprise data management, data production, data application, and data operation, and provide integrated product experience from different perspectives; Through the data quality control before, during and after the event, it is integrated into the DataOps pipeline development process to fully guarantee the improvement of data quality."
+    },
+    {
+        "instruction": "介绍一下数据开发治理平台WeData 产品.",
+        "input": "",
+        "output": "数据开发治理平台 WeData（以下简称 WeData）是位于云端的一站式数据开发治理平台，融合了包含数据集成、数据开发、任务运维的全链路DataOps数据开发能力，以及数据地图、数据质量、数据安全等一系列数据治理和运营能力，帮助企业在数据构建和应用的过程中实现降本增效，数据价值最大化。适用于政府、金融、泛互、工业、能源、交通、教育、文旅、地产、零售、医疗、传媒等众多行业。受众包括但不限于：从事数据开发、算法开发、数据运维等岗位的技术人员。从事数据分析、产品运营等岗位的业务人员。负责数据安全合规工作的管理人员。把控公司核心数据资产的管理人员。"
     },
     {
         "instruction": "What is the data governance platform Wedata?",
